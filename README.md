@@ -152,5 +152,5 @@ def delete(no_buku):
     os.rename("data_temp.txt",Database.DB_NAME)
 ```
 
-
-*Click this link to see complete code*
+*Click this button to see complete code* 
+[CLICK ME](https://github.com/Syamabbas/program-database-perpustakaan/tree/master)
