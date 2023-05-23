@@ -1,16 +1,16 @@
 # 📕 Library Database Program with Python
 
-## Problem Statement: 
+## 👨🏼‍💻Problem Statement: 
 A library wants to create a database system to manage their collection of books. They want to create a program that allows them to add, update, and delete books in their collection.
 
-## Solution:
+## 💡Solution:
 We can use Python programming language to create a CRUD system for the library's database. The CRUD system will allow the librarian to perform the following operations:
  - Create: Add new books to the library's collection.
  - Read: Display the books in the library's collection. 
  - Update: Modify the details of a book in the library's collection.
  - Delete: Remove a book from the library's collection.
  
-## Implementation
+## 👾Implementation
 1.  **Preparing a file:** The first step is to create a database to store the library's collection of books. We can use input function to adding new data into database. We can create also database called `database.py` and to create new database with `.txt` file we can write this code:
 
 ```sh
@@ -152,7 +152,7 @@ def delete(no_buku):
     os.rename("data_temp.txt",Database.DB_NAME)
 ```
 
-## Result
+## ⭐️Result
 **1. Reading data**
 
 <img alt="READING" width="auto" src="https://github.com/Syamabbas/program-database-perpustakaan/blob/163867d3441a1d44be286415f4a0db6670f7f066/CRUD/1%20READ.PNG">
