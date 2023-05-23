@@ -1,4 +1,4 @@
-# Library Database Program with Python
+# 📕 Library Database Program with Python
 
 ## Problem Statement: 
 A library wants to create a database system to manage their collection of books. They want to create a program that allows them to add, update, and delete books in their collection.
@@ -151,6 +151,19 @@ def delete(no_buku):
     
     os.rename("data_temp.txt",Database.DB_NAME)
 ```
+
+## Result
+**1. Reading data**
+
+<img alt="READING" width="auto" src="https://github.com/Syamabbas/program-database-perpustakaan/blob/163867d3441a1d44be286415f4a0db6670f7f066/CRUD/1%20READ.PNG">
+
+**2. Create data**
+
+<img alt="CREATE" width="auto" src="https://github.com/Syamabbas/program-database-perpustakaan/blob/163867d3441a1d44be286415f4a0db6670f7f066/CRUD/2%20CREATE.PNG">
+
+**3. Update data**
+
+<img alt="UPDATE" width="auto" src="https://github.com/Syamabbas/program-database-perpustakaan/blob/163867d3441a1d44be286415f4a0db6670f7f066/CRUD/3%20UPDATE.PNG">
 
 *Click this button to see complete code* 
 [CLICK ME](https://github.com/Syamabbas/program-database-perpustakaan/tree/master)
